@@ -7,5 +7,6 @@ class oopja01{
 	{
 		System.out.println("First name is: "+args[0]);
 		System.out.print("Last name is: "+args[1]);
+		System.out.print("Last name is: "+args[2]);
 	}
 }
